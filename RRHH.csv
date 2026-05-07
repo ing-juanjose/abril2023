@@ -1,0 +1,110 @@
+﻿CodContrato;CodEmpleado;Nom_Empleado;Genero;Profesion;Sede;Fecha de inicio;Fin Contrato;Tipo de Trabajo;Modalidad;Hijos;Sueldo Basico;Función;Dpto;Sistema
+1900EMP00020;EMP00020;Finn Fuentes;Varon;Contador;Aramburu;;31/12/2025;Medio Tiempo;Remoto;3;4000;Administrativa;Gerencia y Estrategia;INTEGRA
+1900EMP00022;EMP00022;Brett Brown;Varon;Ing. Industrial;Aramburu;;31/12/2022;Tiempo Completo;Presencial;0;4800;Logistica;Manufactura y Operaciones;INTEGRA
+1900EMP00027;EMP00027;Eaton Terry;Masculino;Contador;Aramburu;;31/12/2024;Medio Tiempo;Remoto;1;5000;Operativa;Manufactura y Operaciones;PRIMA
+1900EMP00037;EMP00037;Jordan Fischer;Masculino;Contador;Begonias;;31/12/2024;Tiempo Completo;Presencial;0;5600;Administrativa;Gerencia y Estrategia;INTEGRA
+1900EMP00043;EMP00043;Matthew Marks;Masculino;Contador;Habich;;31/12/2021;Parcial;Remoto;2;5000;Administrativa;Gerencia y Estrategia;ONP
+1900EMP00051;EMP00051;Lev Hammond;Masculino;Administracion;Belgrano;;31/12/2022;Tiempo Completo;Presencial;1;3100;Administrativa;Gerencia y Estrategia;ONP
+1900EMP00060;EMP00060;Gannon Garner;Masculino;Administracion;Begonias;;31/12/2024;Medio Tiempo;Presencial;0;4500;Operativa;Manufactura y Operaciones;ONP
+1900EMP00070;EMP00070;Macon Raymond;Masculino;Ing. Sistemas;Habich;;30/06/2021;Parcial;Remoto;0;6240;Administrativa;Manufactura y Operaciones;INTEGRA
+1900EMP00078;EMP00078;Amal Sexton;Masculino;Contador;Habich;;31/12/2021;Tiempo Completo;Presencial;1;6200;Administrativa;Almacen y Logistica;INTEGRA
+1900EMP00083;EMP00083;Roary Hart;Mujer;Contador;Begonias;;31/12/2022;Medio Tiempo;Remoto;0;3430;Administrativa;Almacen y Logistica;ONP
+2020EMP00020;EMP00020;Finn Fuentes;Masculino;Contador;Begonias;13/05/2020;31/12/2020;Medio Tiempo;Remoto;3;2500;Administrativa;Almacen y Logistica;INTEGRA
+2020EMP00021;EMP00021;Alexander Erickson;Masculino;Administracion;Belgrano;1/01/2020;31/12/2021;Tiempo Completo;Presencial;1;3800;Administrativa;Gerencia y Estrategia;ONP
+2020EMP00022;EMP00022;Brett Brown;Varon;Ing. Industrial;Aramburu;4/05/2020;31/12/2021;Tiempo Completo;Presencial;0;;Logistica;Manufactura y Operaciones;INTEGRA
+2020EMP00023;EMP00023;Paul Cain;Masculino;Administracion;Habich;13/05/2020;31/12/2020;Tiempo Completo;Presencial;1;6000;Administrativa;Manufactura y Operaciones;ONP
+2020EMP00024;EMP00024;Zeus Snow;Masculino;Administracion;Belgrano;13/05/2020;31/12/2020;Medio Tiempo;Presencial;0;3500;Operativa;Manufactura y Operaciones;PRIMA
+2020EMP00025;EMP00025;Declan Lang;Masculino;Contador;Begonias;13/05/2020;30/12/2022;Tiempo Completo;Presencial;0;4900;Administrativa;Gerencia y Estrategia;ONP
+2020EMP00027;EMP00027;Eaton Terry;Varon;Contador;Begonias;10/05/2020;31/12/2021;Medio Tiempo;Presencial;1;14500;Operativa;Manufactura y Operaciones;INTEGRA
+2020EMP00028;EMP00028;Elijah Fry;Varon;Ing. Industrial;Belgrano;10/05/2020;31/12/2020;Medio Tiempo;Presencial;3;13240;Administrativa;Manufactura y Operaciones;INTEGRA
+2020EMP00031;EMP00031;Trevor Gould;Masculino;Contador;Aramburu;8/09/2020;30/06/2021;Tiempo Completo;Remoto;1;3500;Administrativa;Gerencia y Estrategia;INTEGRA
+2020EMP00034;EMP00034;Maxwell Mcleod;Masculino;Ing. Sistemas;Belgrano;27/11/2020;31/12/2022;Tiempo Completo;Presencial;0;6120;Administrativa;Gerencia y Estrategia;PRIMA
+2020EMP00035;EMP00035;Kato Dodson;Masculino;Ing. Industrial;Belgrano;1/01/2020;31/12/2021;Tiempo Completo;Presencial;0;17800;Administrativa;Gerencia y Estrategia;ONP
+2020EMP00039;EMP00039;Elijah Ayers;Masculino;Ing. Industrial;Aramburu;7/08/2020;31/12/2020;Medio Tiempo;Remoto;0;4500;Operativa;Manufactura y Operaciones;ONP
+2020EMP00041;EMP00041;Graham Chang;Masculino;Administracion;Belgrano;1/01/2020;31/12/2021;Tiempo Completo;Presencial;1;;Administrativa;Gerencia y Estrategia;PRIMA
+2020EMP00042;EMP00042;Kibo Waller;Masculino;Ing. Sistemas;Belgrano;1/01/2020;31/12/2021;Medio Tiempo;Presencial;3;5000;Administrativa;Gerencia y Estrategia;PRIMA
+2020EMP00044;EMP00044;Silas Stevens;Caballero;Administracion;Begonias;1/01/2020;31/12/2021;Medio Tiempo;Presencial;3;3400;Administrativa;Gerencia y Estrategia;INTEGRA
+2020EMP00046;EMP00046;Reece Stephens;Caballero;Administracion;Aramburu;13/01/2020;31/12/2021;Parcial;Presencial;0;5160;Administrativa;Gerencia y Estrategia;INTEGRA
+2020EMP00047;EMP00047;Hall Dejesus;Masculino;Contador;Belgrano;13/01/2020;31/12/2022;Medio Tiempo;Presencial;1;6300;Administrativa;Gerencia y Estrategia;ONP
+2020EMP00048;EMP00048;Xenos Davidson;Caballero;Ing. Industrial;Aramburu;21/12/2020;30/12/2022;Parcial;Presencial;0;5200;Administrativa;Gerencia y Estrategia;INTEGRA
+2020EMP00050;EMP00050;Elliott Doyle;Caballero;Contador;Belgrano;30/04/2020;30/11/2022;Tiempo Completo;Remoto;3;2400;Administrativa;Almacen y Logistica;INTEGRA
+2020EMP00052;EMP00052;Plato Melton;Masculino;Ing. Industrial;Aramburu;2/04/2020;31/12/2021;Parcial;Remoto;0;;Administrativa;Gerencia y Estrategia;ONP
+2020EMP00053;EMP00053;Richard Lopez;Masculino;Contador;Aramburu;4/12/2020;30/11/2022;Tiempo Completo;Presencial;0;6000;Administrativa;Gerencia y Estrategia;ONP
+2020EMP00054;EMP00054;Samuel Duncan;Caballero;Contador;Habich;4/12/2020;30/11/2022;Tiempo Completo;Remoto;0;6700;Administrativa;Manufactura y Operaciones;INTEGRA
+2020EMP00055;EMP00055;Burton Mcclain;Masculino;Administracion;Habich;4/12/2020;30/11/2022;Tiempo Completo;Remoto;0;8460;Operativa;Manufactura y Operaciones;ONP
+2020EMP00057;EMP00057;Robert Saunders;Masculino;Ing. Sistemas;Belgrano;13/05/2020;31/12/2020;Medio Tiempo;Presencial;1;3000;Logistica;Almacen y Logistica;ONP
+2020EMP00058;EMP00058;Lev Paul;Masculino;Administracion;Habich;13/05/2020;30/12/2022;Tiempo Completo;Presencial;2;7600;Administrativa;Almacen y Logistica;PRIMA
+2020EMP00066;EMP00066;Ciaran Walker;Masculino;Contador;Aramburu;18/10/2020;31/12/2022;Medio Tiempo;Presencial;0;7660;Operativa;Manufactura y Operaciones;INTEGRA
+2020EMP00075;EMP00075;Kennan Ashley;Masculino;Administracion;Habich;18/10/2020;31/12/2022;Medio Tiempo;Remoto;1;4500;Logistica;Almacen y Logistica;INTEGRA
+2020EMP00077;EMP00077;Samuel Cote;Masculino;Contador;Belgrano;1/01/2020;31/12/2021;Tiempo Completo;Presencial;0;3500;Administrativa;Gerencia y Estrategia;PRIMA
+2020EMP00078;EMP00078;Amal Sexton;Masculino;Contador;Belgrano;4/05/2020;31/12/2024;Tiempo Completo;Presencial;1;6200;Administrativa;Almacen y Logistica;INTEGRA
+2020EMP00079;EMP00079;Mannix Watts;Masculino;Ing. Sistemas;Habich;1/01/2020;31/12/2021;Tiempo Completo;Remoto;3;3780;Administrativa;Almacen y Logistica;ONP
+2020EMP00082;EMP00082;Anne Kelly;Femenino;Ing. Sistemas;Habich;7/08/2020;31/12/2020;Medio Tiempo;Remoto;1;5250;Administrativa;Gerencia y Estrategia;INTEGRA
+2020EMP00083;EMP00083;Roary Hart;Femenino;Contador;Begonias;7/08/2020;31/12/2020;Medio Tiempo;Remoto;0;3430;Administrativa;Almacen y Logistica;ONP
+2021EMP00020;EMP00020;Finn Fuentes;Varon;Contador;Begonias;1/01/2021;31/12/2022;Medio Tiempo;Remoto;3;;Administrativa;Almacen y Logistica;INTEGRA
+2021EMP00023;EMP00023;Paul Cain;Masculino;Administracion;Habich;1/01/2021;31/12/2021;Tiempo Completo;Presencial;1;6400;Administrativa;Manufactura y Operaciones;ONP
+2021EMP00024;EMP00024;Zeus Snow;Masculino;Administracion;Habich;1/01/2021;31/12/2021;Medio Tiempo;Presencial;0;3800;Administrativa;Gerencia y Estrategia;PRIMA
+2021EMP00028;EMP00028;Elijah Fry;Varon;Ing. Sistemas;Belgrano;1/01/2021;31/12/2024;Medio Tiempo;Presencial;3;3240;Administrativa;Manufactura y Operaciones;INTEGRA
+2021EMP00029;EMP00029;Yardley Weaver;Masculino;Ing. Sistemas;Aramburu;1/01/2021;31/12/2022;Tiempo Completo;Presencial;0;4640;Operativa;Manufactura y Operaciones;PRIMA
+2021EMP00033;EMP00033;Prescott Heath;Masculino;Administracion;Habich;1/01/2021;31/12/2023;Medio Tiempo;Remoto;1;3100;Operativa;Manufactura y Operaciones;ONP
+2021EMP00038;EMP00038;Yardley Hale;Caballero;Contador;Aramburu;1/01/2021;31/12/2022;Tiempo Completo;Remoto;1;6500;Administrativa;Almacen y Logistica;INTEGRA
+2021EMP00039;EMP00039;Elijah Ayers;Masculino;Ing. Sistemas;Aramburu;1/01/2021;31/12/2022;Medio Tiempo;Remoto;0;4700;Operativa;Manufactura y Operaciones;ONP
+2021EMP00040;EMP00040;Stone Murphy;Caballero;Administracion;Habich;1/01/2021;31/12/2022;Tiempo Completo;Presencial;1;5200;Administrativa;Manufactura y Operaciones;INTEGRA
+2021EMP00046;EMP00046;Reece Stephens;Caballero;Administracion;Belgrano;1/01/2021;31/12/2024;Parcial;Presencial;0;5160;Administrativa;Gerencia y Estrategia;INTEGRA
+2021EMP00049;EMP00049;Hamish Ortega;Caballero;Contador;Aramburu;1/01/2021;31/12/2022;Tiempo Completo;Presencial;2;7520;Administrativa;Almacen y Logistica;INTEGRA
+2021EMP00057;EMP00057;Robert Saunders;Masculino;Ing. Sistemas;Belgrano;1/01/2021;31/12/2022;Medio Tiempo;Presencial;1;3400;Logistica;Almacen y Logistica;ONP
+2021EMP00060;EMP00060;Gannon Garner;Masculino;Administracion;Begonias;1/01/2021;31/12/2022;Medio Tiempo;Presencial;0;4700;Operativa;Manufactura y Operaciones;ONP
+2021EMP00063;EMP00063;Steel Bradshaw;Masculino;Contador;Belgrano;1/01/2021;31/12/2022;Tiempo Completo;Presencial;0;6700;Administrativa;Gerencia y Estrategia;INTEGRA
+2021EMP00064;EMP00064;Zeph Long;Masculino;Administracion;Aramburu;24/08/2021;31/12/2022;Tiempo Completo;Remoto;0;5120;Logistica;Gerencia y Estrategia;PRIMA
+2021EMP00065;EMP00065;Price Langley;Masculino;Administracion;Aramburu;1/01/2021;31/12/2022;Medio Tiempo;Remoto;0;5280;Logistica;Gerencia y Estrategia;ONP
+2021EMP00067;EMP00067;Hammett Kramer;Masculino;Administracion;Habich;1/01/2021;31/12/2022;Medio Tiempo;Remoto;2;4240;Logistica;Manufactura y Operaciones;INTEGRA
+2021EMP00069;EMP00069;Cameron Hubbard;Masculino;Contador;Belgrano;1/01/2021;31/12/2022;Tiempo Completo;Presencial;0;6200;Administrativa;Manufactura y Operaciones;PRIMA
+2021EMP00071;EMP00071;Henry Paul;Masculino;Administracion;Habich;1/01/2021;31/12/2022;Tiempo Completo;Remoto;0;;Logistica;Almacen y Logistica;PRIMA
+2021EMP00074;EMP00074;Stephen Mccoy;Masculino;Administracion;Aramburu;1/01/2021;31/12/2022;Medio Tiempo;Presencial;0;4240;Administrativa;Manufactura y Operaciones;INTEGRA
+2021EMP00082;EMP00082;Anne Kelly;Mujer;Ing. Sistemas;Habich;1/01/2021;31/12/2022;Medio Tiempo;Remoto;1;;Administrativa;Gerencia y Estrategia;INTEGRA
+2021EMP00084;EMP00084;Minerva Lowe;Femenino;Contador;Begonias;1/01/2021;31/12/2022;Parcial;Remoto;1;4500;Operativa;Manufactura y Operaciones;PRIMA
+2021EMP00085;EMP00085;Kameko Bridges;Dama;Contador;Belgrano;1/01/2021;31/12/2022;Tiempo Completo;Presencial;1;6720;Administrativa;Gerencia y Estrategia;ONP
+2022EMP00021;EMP00021;Alexander Erickson;Masculino;Administracion;Belgrano;4/05/2022;31/12/2022;Tiempo Completo;Presencial;2;14200;Administrativa;Gerencia y Estrategia;ONP
+2022EMP00023;EMP00023;Paul Cain;Masculino;Administracion;Belgrano;1/01/2022;31/12/2022;Tiempo Completo;Presencial;2;6400;Administrativa;Gerencia y Estrategia;ONP
+2022EMP00024;EMP00024;Zeus Snow;Masculino;Administracion;Habich;1/01/2022;31/12/2024;Medio Tiempo;Presencial;1;;Administrativa;Gerencia y Estrategia;PRIMA
+2022EMP00026;EMP00026;Igor Clay;Varon;Administracion;Begonias;4/12/2022;31/12/2022;Medio Tiempo;Remoto;1;2340;Logistica;Manufactura y Operaciones;INTEGRA
+2022EMP00029;EMP00029;Yardley Weaver;Masculino;Ing. Industrial;Aramburu;8/09/2022;31/12/2024;Tiempo Completo;Presencial;0;4640;Operativa;Manufactura y Operaciones;PRIMA
+2022EMP00030;EMP00030;Todd Weiss;Varon;Contador;Aramburu;8/09/2022;30/06/2024;Tiempo Completo;Presencial;1;3520;Administrativa;Manufactura y Operaciones;INTEGRA
+2022EMP00032;EMP00032;Chase Hill;Masculino;Administracion;Habich;27/04/2022;31/12/2022;Parcial;Presencial;1;4500;Operativa;Manufactura y Operaciones;ONP
+2022EMP00035;EMP00035;Kato Dodson;Masculino;Ing. Industrial;Habich;23/06/2022;31/12/2024;Tiempo Completo;Presencial;0;7800;Administrativa;Gerencia y Estrategia;ONP
+2022EMP00036;EMP00036;Adrian Padilla;Masculino;Contador;Habich;23/06/2022;31/12/2024;Medio Tiempo;Remoto;0;2250;Operativa;Manufactura y Operaciones;INTEGRA
+2022EMP00038;EMP00038;Yardley Hale;Caballero;Contador;Aramburu;7/08/2022;31/12/2024;Tiempo Completo;Remoto;1;6160;Logistica;Almacen y Logistica;INTEGRA
+2022EMP00040;EMP00040;Stone Murphy;Caballero;Administracion;Habich;7/08/2022;31/12/2024;Tiempo Completo;Presencial;1;5200;Administrativa;Manufactura y Operaciones;INTEGRA
+2022EMP00041;EMP00041;Graham Chang;Masculino;Administracion;Belgrano;2/04/2022;31/12/2024;Tiempo Completo;Presencial;1;3480;Administrativa;Gerencia y Estrategia;PRIMA
+2022EMP00042;EMP00042;Kibo Waller;Masculino;Ing. Industrial;Habich;2/04/2022;31/12/2024;Medio Tiempo;Presencial;3;4800;Administrativa;Gerencia y Estrategia;PRIMA
+2022EMP00043;EMP00043;Matthew Marks;Masculino;Contador;Begonias;2/04/2022;31/12/2024;Parcial;Remoto;2;4320;Logistica;Gerencia y Estrategia;ONP
+2022EMP00044;EMP00044;Silas Stevens;Caballero;Administracion;Begonias;2/04/2022;31/12/2024;Medio Tiempo;Presencial;3;3200;Administrativa;Gerencia y Estrategia;INTEGRA
+2022EMP00052;EMP00052;Plato Melton;Masculino;Ing. Sistemas;Aramburu;1/01/2022;31/12/2024;Parcial;Remoto;0;5000;Administrativa;Gerencia y Estrategia;ONP
+2022EMP00056;EMP00056;Brian Fisher;Caballero;Ing. Sistemas;Belgrano;2/02/2022;31/12/2022;Tiempo Completo;Presencial;1;3600;Administrativa;Gerencia y Estrategia;INTEGRA
+2022EMP00059;EMP00059;Merrill Robbins;Masculino;Ing. Industrial;Habich;8/09/2022;30/06/2024;Tiempo Completo;Presencial;0;5600;Administrativa;Gerencia y Estrategia;INTEGRA
+2022EMP00061;EMP00061;Raymond Baird;Masculino;Ing. Industrial;Begonias;27/04/2022;30/06/2022;Parcial;Presencial;1;3240;Administrativa;Gerencia y Estrategia;INTEGRA
+2022EMP00062;EMP00062;Paul Keith;Masculino;Contador;Aramburu;24/08/2022;30/06/2024;Tiempo Completo;Remoto;0;5400;Logistica;Gerencia y Estrategia;ONP
+2022EMP00063;EMP00063;Steel Bradshaw;Masculino;Contador;Belgrano;24/08/2022;31/12/2024;Tiempo Completo;Presencial;0;6400;Administrativa;Gerencia y Estrategia;INTEGRA
+2022EMP00065;EMP00065;Price Langley;Masculino;Administracion;Aramburu;18/10/2022;31/12/2024;Medio Tiempo;Remoto;0;15280;Logistica;Gerencia y Estrategia;ONP
+2022EMP00067;EMP00067;Hammett Kramer;Masculino;Administracion;Habich;24/12/2022;31/12/2024;Medio Tiempo;Remoto;2;4240;Logistica;Manufactura y Operaciones;INTEGRA
+2022EMP00068;EMP00068;Aladdin Rodriguez;Masculino;Contador;Belgrano;21/10/2022;31/12/2024;Medio Tiempo;Presencial;3;1600;Operativa;Manufactura y Operaciones;INTEGRA
+2022EMP00069;EMP00069;Cameron Hubbard;Masculino;Contador;Belgrano;8/09/2022;31/12/2024;Tiempo Completo;Presencial;0;6200;Administrativa;Manufactura y Operaciones;PRIMA
+2022EMP00071;EMP00071;Henry Paul;Masculino;Administracion;Begonias;8/09/2022;31/12/2024;Tiempo Completo;Remoto;0;8100;Logistica;Almacen y Logistica;PRIMA
+2022EMP00072;EMP00072;Yardley Lott;Masculino;Ing. Industrial;Aramburu;21/12/2022;31/12/2024;Medio Tiempo;Remoto;0;8360;Administrativa;Almacen y Logistica;INTEGRA
+2022EMP00073;EMP00073;Gareth Saunders;Masculino;Contador;Aramburu;21/12/2022;30/12/2024;Medio Tiempo;Presencial;3;4250;Administrativa;Manufactura y Operaciones;INTEGRA
+2022EMP00074;EMP00074;Stephen Mccoy;Masculino;Administracion;Aramburu;21/12/2022;31/12/2024;Medio Tiempo;Presencial;0;4240;Administrativa;Manufactura y Operaciones;INTEGRA
+2022EMP00076;EMP00076;Dylan Pierce;Masculino;Administracion;Habich;23/11/2022;30/12/2024;Medio Tiempo;Remoto;0;4090;Logistica;Gerencia y Estrategia;ONP
+2022EMP00077;EMP00077;Samuel Cote;Masculino;Contador;Belgrano;4/05/2022;31/12/2024;Tiempo Completo;Presencial;0;3250;Administrativa;Gerencia y Estrategia;PRIMA
+2022EMP00079;EMP00079;Mannix Watts;Masculino;Ing. Sistemas;Begonias;10/05/2022;31/12/2024;Tiempo Completo;Remoto;3;3780;Administrativa;Almacen y Logistica;ONP
+2022EMP00080;EMP00080;Magee Rutledge;Masculino;Ing. Sistemas;Begonias;2/02/2022;31/12/2022;Medio Tiempo;Remoto;1;4600;Operativa;Manufactura y Operaciones;INTEGRA
+2022EMP00081;EMP00081;Brett Lara;Masculino;Administracion;Begonias;2/02/2022;31/12/2022;Medio Tiempo;Presencial;0;3065;Administrativa;Almacen y Logistica;PRIMA
+2022EMP00084;EMP00084;Minerva Lowe;Femenino;Contador;Aramburu;7/08/2022;31/12/2024;Parcial;Remoto;1;4500;Operativa;Manufactura y Operaciones;PRIMA
+2022EMP00085;EMP00085;Kameko Bridges;Dama;Contador;Belgrano;13/05/2022;31/12/2024;Tiempo Completo;Presencial;1;6720;Administrativa;Gerencia y Estrategia;ONP
+2023EMP00021;EMP00021;Alexander Erickson;Masculino;Administracion;Aramburu;1/01/2023;31/12/2024;Tiempo Completo;Presencial;3;4500;Administrativa;Gerencia y Estrategia;ONP
+2023EMP00022;EMP00022;Brett Brown;Varon;Ing. Industrial;Aramburu;1/01/2023;31/12/2024;Tiempo Completo;Presencial;1;5200;Administrativa;Gerencia y Estrategia;INTEGRA
+2023EMP00023;EMP00023;Paul Cain;Masculino;Administracion;Belgrano;1/01/2023;31/12/2024;Tiempo Completo;Presencial;2;16800;Administrativa;Gerencia y Estrategia;ONP
+2023EMP00033;EMP00033;Prescott Heath;Masculino;Administracion;Belgrano;8/09/2023;31/12/2025;Medio Tiempo;Remoto;1;;Operativa;Manufactura y Operaciones;ONP
+2023EMP00047;EMP00047;Hall Dejesus;Masculino;Contador;Aramburu;1/01/2023;31/12/2024;Medio Tiempo;Presencial;1;6500;Administrativa;Gerencia y Estrategia;ONP
+2023EMP00049;EMP00049;Hamish Ortega;Caballero;Contador;Aramburu;1/01/2023;31/12/2024;Tiempo Completo;Presencial;2;7520;Administrativa;Manufactura y Operaciones;INTEGRA
+2023EMP00051;EMP00051;Lev Hammond;Masculino;Administracion;Aramburu;2/04/2023;31/12/2025;Tiempo Completo;Presencial;1;3100;Administrativa;Gerencia y Estrategia;ONP
+2023EMP00064;EMP00064;Zeph Long;Masculino;Administracion;Aramburu;1/01/2023;31/12/2023;Tiempo Completo;Remoto;0;5120;Logistica;Gerencia y Estrategia;PRIMA
